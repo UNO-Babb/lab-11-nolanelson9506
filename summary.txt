@@ -1,0 +1,7 @@
+I changed the number of checkers from 5 to 3.
+I changed the amount of items from between 5 and 20 to between 5 and 35.
+35 items is more realistic because some people shop for their families and buy groceries for the whole week.
+I did 10 trials and the mean average wait time was 2.66 minutes and the mean total idle time was 321 minutes.
+By testing different numbers of checkers, I learned that too few checkers created
+longer wait times and too many checkers created longer idle times.
+I recommend this because the wait time was short and the idle time was relatively low.
